@@ -1,0 +1,6 @@
+def filter_list(list):
+    return [x for x in list if isinstance(x, int)]
+
+input_list = [1, 'apple', 2, 'banana', 3, 'cherry']
+result = filter_list(input_list)
+print(result)
