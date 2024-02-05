@@ -1,1 +1,1 @@
-# Meu Novo Repositório
+Exercises from code wars will be uploaded here
